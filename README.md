@@ -16,7 +16,7 @@ I'm a __frontend developer__ and __technical writer__ based in __France__. I lov
 ## My skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/maximemarc/maximemarc/img/pack.png" />
+  <img align="center" alt="Skills" src="https://github.com/maximemarc/maximemarc/blob/main/img/pack.png" />
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximemarc&show_icons=true&theme=radical)
