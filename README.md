@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/maximemarc51">Linkedin</a>
 </p>
 
-I'm a __ developer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, etc.
+I'm a __developer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, etc.
 
 * 💼 Currently working at [BTS SIO](http://www.sio-reims.fr) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.maximemarc.online/img/Maxime_MARC_CV.pdf)<br/>
