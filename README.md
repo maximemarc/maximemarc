@@ -3,12 +3,12 @@
 <p align="center">
   <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
   <a href="https://twitter.com/maximemarc51">Twitter</a> •
-  <a href="www.linkedin.com/in/maximemarc51">Linkedin</a>
+  <a href="https://www.linkedin.com/in/maximemarc51">Linkedin</a>
 </p>
 
 I'm a __frontend developer__ and __technical writer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, write blogs on Dev.to etc.
 
-* 💼 Currently working at [Frichti](https://www.frichti.co) <br/>
+* 💼 Currently working at [BTS SIO](http://www.sio-reims.fr) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
 * 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
