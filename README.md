@@ -21,15 +21,13 @@ I'm a __ developer__ based in __France__. I love teaching web development and al
 
 ## My Commit
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximemarc&show_icons=true&theme=radical)
-</p>
+
 
 ## My TOP Langs
 
-<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximemarc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maximemarc.maximemarc)
