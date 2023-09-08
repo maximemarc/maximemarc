@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://www.maximemarc.online/">Website</a> •
-  <a href="https://twitter.com/maximemarc51">Twitter</a> •
+  <a href="https://www.maximemarc.pro/">Website</a> •
   <a href="https://www.linkedin.com/in/maximemarc51">Linkedin</a>
 </p>
 
