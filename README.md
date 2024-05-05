@@ -7,7 +7,7 @@
 
 I'm a __developer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, etc.
 
-* 💼 Currently working at [BTS SIO](http://www.sio-reims.fr) <br/>
+* 💼 Currently working at [Multi-Impact](https://www.multi-impact.com/) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.maximemarc.online/img/Maxime_MARC_CV.pdf)<br/>
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/maximemarc) <br/>
 * 📫 Contact me [@maximemarc51](https://twitter.com/maximemarc51)
