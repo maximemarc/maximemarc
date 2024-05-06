@@ -19,7 +19,6 @@ Je suis MARC Maxime, un passionné de développement de logiciels basé à Reims
 * N'hésitez pas à explorer mes repos pour découvrir d'autres projets intéressant
 
 ## 📫 Contact
-* Email: maximemarc51@gmail.com
 * 💼 Currently working at [Multi-Impact](https://www.multi-impact.com/)
 * 🔖 Discover my [Curriculum Vitae](maximemarc.com/cv)
 * 📫 Contact me [@maximemarc51](maximemarc.com/contact)<br/>
