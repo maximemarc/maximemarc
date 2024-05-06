@@ -8,12 +8,12 @@
 Je suis MARC Maxime, un passionné de développement de logiciels basé à Reims. Je suis un développeur full-stack avec une préférence pour les technologies web modernes telles que React, TypeScript et symfony. Je suis toujours à la recherche de nouveaux défis et de projets intéressants à contribuer.
 
 ## 🚀 Compétences
-<p align="center">
-  Langages de Programmation: JavaScript, TypeScript, HTML, CSS, PHP, C++, bash, Java
-  Frameworks et Bibliothèques: React, Node.js, Symfony
-  Bases de Données: MySQL, PostgreSQL
-  Outils de Développement: Git, VS Code/ phpstorm, Docker
-</p>
+
+* Langages de Programmation: JavaScript, TypeScript, HTML, CSS, PHP, C++, bash, Java
+* Frameworks et Bibliothèques: React, Node.js, Symfony
+* Bases de Données: MySQL, PostgreSQL
+* Outils de Développement: Git, VS Code/ phpstorm, Docker
+
 
 ## 🔭 Projets Notables
 * N'hésitez pas à explorer mes repos pour découvrir d'autres projets intéressant
