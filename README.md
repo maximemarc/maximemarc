@@ -12,7 +12,7 @@ Je suis MARC Maxime, un passionné de développement de logiciels basé à Reims
 * Langages de Programmation: JavaScript, TypeScript, HTML, CSS, PHP, C++, bash, Java
 * Frameworks et Bibliothèques: React, Node.js, Symfony
 * Bases de Données: MySQL, PostgreSQL
-* Outils de Développement: Git, VS Code/ phpstorm, Docker
+* Outils de Développement: Git, VS Code/ Phpstorm, Docker
 
 
 ## 🔭 Projets Notables
@@ -20,9 +20,9 @@ Je suis MARC Maxime, un passionné de développement de logiciels basé à Reims
 
 ## 📫 Contact
 * Email: maximemarc51@gmail.com
-* 💼 Currently working at [Multi-Impact](https://www.multi-impact.com/) <br/>
-* 🔖 Discover my [Curriculum Vitae](maximemarc.com/cv)<br/>
-* 📫 Contact me [@maximemarc51](maximemarc.com/contact)
+* 💼 Currently working at [Multi-Impact](https://www.multi-impact.com/)
+* 🔖 Discover my [Curriculum Vitae](maximemarc.com/cv)
+* 📫 Contact me [@maximemarc51](maximemarc.com/contact)<br/>
 N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez discuter de collaborations potentielles!
 
 ## My Commit
