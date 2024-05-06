@@ -1,22 +1,28 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Bienvenue sur mon profil GitHub! 👋</h1>
 
 <p align="center">
-  <a href="https://www.maximemarc.pro/">Website</a> •
+  <a href="https://www.maximemarc.com/">Website</a> •
   <a href="https://www.linkedin.com/in/maximemarc51">Linkedin</a>
 </p>
 
-I'm a __developer__ based in __France__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, etc.
+Je suis MARC Maxime, un passionné de développement de logiciels basé à Reims. Je suis un développeur full-stack avec une préférence pour les technologies web modernes telles que React, TypeScript et symfony. Je suis toujours à la recherche de nouveaux défis et de projets intéressants à contribuer.
 
-* 💼 Currently working at [Multi-Impact](https://www.multi-impact.com/) <br/>
-* 🔖 Discover my [Curriculum Vitae](https://www.maximemarc.online/img/Maxime_MARC_CV.pdf)<br/>
-* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/maximemarc) <br/>
-* 📫 Contact me [@maximemarc51](https://twitter.com/maximemarc51)
-
-## My skills
-
+##🚀 Compétences
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/maximemarc/maximemarc/blob/main/img/pack.png" />
+  Langages de Programmation: JavaScript, TypeScript, HTML, CSS, PHP, C++, bash, Java
+  Frameworks et Bibliothèques: React, Node.js, Symfony
+  Bases de Données: MySQL, PostgreSQL
+  Outils de Développement: Git, VS Code/ phpstorm, Docker
 </p>
+##🔭 Projets Notables
+N'hésitez pas à explorer mes repos pour découvrir d'autres projets intéressant
+
+##📫 Contact
+* Email: maximemarc51@gmail.com
+* 💼 Currently working at [Multi-Impact](https://www.multi-impact.com/) <br/>
+* 🔖 Discover my [Curriculum Vitae](maximemarc.com/cv)<br/>
+* 📫 Contact me [@maximemarc51](maximemarc.com/contact)
+N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez discuter de collaborations potentielles!
 
 ## My Commit
 
