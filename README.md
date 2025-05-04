@@ -1,38 +1,62 @@
+
 <h1 align="center">Bienvenue sur mon profil GitHub! 👋</h1>
 
 <p align="center">
-  <a href="https://www.maximemarc.com/">Website</a> •
-  <a href="https://www.linkedin.com/in/maximemarc51">Linkedin</a>
+  <a href="https://www.maximemarc.com/">🌐 Website</a> •
+  <a href="https://www.linkedin.com/in/maximemarc51">👂 Linkedin</a>
 </p>
 
-Je suis MARC Maxime, un passionné de développement de logiciels basé à Reims. Je suis un développeur full-stack avec une préférence pour les technologies web modernes telles que React, TypeScript et symfony. Je suis toujours à la recherche de nouveaux défis et de projets intéressants à contribuer.
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maximemarc.maximemarc)
 
-## 🚀 Compétences
+---
 
-* Langages de Programmation: JavaScript, TypeScript, HTML, CSS, PHP, C++, bash, Java
-* Frameworks et Bibliothèques: React, Node.js, Symfony
-* Bases de Données: MySQL, PostgreSQL
-* Outils de Développement: Git, VS Code/ Phpstorm, Docker
+## 🚀 About Me
+- **Name:** Maxime Marc
+- **Profession:** Developer
+- **Passion:** I love to solve problems, build meaningful projects, and explore cutting-edge technologies.
+  
+---
 
+## 💼 Professional Interests
+- **Programming Languages:** PHP, JavaScript, TypeScript, Java
+- **Frameworks & Tools:**  Symfony, React, Vue, TaillWind, Next.js, Node.js
+- **Areas of Expertise:**
+  - 🚀 Web Development
+  - 🛠️ Open-Source Contributions
 
-## 🔭 Projets Notables
-* N'hésitez pas à explorer mes repos pour découvrir d'autres projets intéressant
-
-## 📫 Contact
-* 💼 Currently working at [Multi-Impact](https://www.multi-impact.com/)
-* 🔖 Discover my [Curriculum Vitae](maximemarc.com/cv)
-* 📫 Contact me [@maximemarc51](maximemarc.com/contact)<br/>
-N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez discuter de collaborations potentielles!
+---
 
 ## My Commit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximemarc&show_icons=true&theme=radical)
-
 
 ## My TOP Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maximemarc&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## 📚 Learning & Growth
+- Improving skills in **DevOps** and **CI/CD Pipelines**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maximemarc.maximemarc)
+---
+
+## 📂 Featured Projects
+Here are some of my favorite projects:
+- Comming SOON ...
+  
+Feel free to explore my repositories for more exciting projects!
+
+---
+
+## 🌱 Hobbies
+- 🎵 Music
+- 🎮 Gaming
+- 🦾 bodybuilding
+---
+
+## 📫 How to Reach Me
+- **Email:** [contact@maximemarc.com](mailto:contact@maximemarc.com)
+- **LinkedIn:** [linkedin.com/in/maximemarc](https://linkedin.com/in/maximemarc)
+- **Portfolio:** [maximemarc.com](https://maximemarc.com)
+
+---
