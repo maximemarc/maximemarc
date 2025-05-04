@@ -1,3 +1,4 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maximemarc.maximemarc)
 
 <h1 align="center">Bienvenue sur mon profil GitHub! 👋</h1>
 
@@ -5,8 +6,6 @@
   <a href="https://www.maximemarc.com/">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/maximemarc51">👂 Linkedin</a>
 </p>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=maximemarc.maximemarc)
 
 ---
 
