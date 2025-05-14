@@ -55,7 +55,7 @@ Feel free to explore my repositories for more exciting projects!
 
 ## 📫 How to Reach Me
 - **Email:** [contact@maximemarc.com](mailto:contact@maximemarc.com)
-- **LinkedIn:** [linkedin.com/in/maximemarc](https://linkedin.com/in/maximemarc)
+- **LinkedIn:** [https://www.linkedin.com/in/maximemarc51](https://linkedin.com/in/maximemarc51)
 - **Portfolio:** [maximemarc.com](https://maximemarc.com)
 
 ---
